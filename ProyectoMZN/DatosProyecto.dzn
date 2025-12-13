@@ -1,0 +1,10 @@
+% Archivo generado automáticamente
+% Datos para el problema de minimización de polarización
+
+n = 10;
+m = 3;
+p = [3, 4, 3];
+v = [0.239000, 0.371000, 0.574000];
+s = [| 1, 2, 0 | 3, 1, 0 | 2, 0, 1 |];
+ct = 25.0;
+maxMovs = 5;

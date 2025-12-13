@@ -1,0 +1,13 @@
+# Dependencias del Proyecto MinPol
+# Instalación: pip install -r requirements.txt
+
+# GUI - Interfaz gráfica
+PySimpleGUI==4.60.5
+
+# Procesamiento de datos (opcional, por si lo necesitan después)
+# pandas==2.0.3
+# numpy==1.24.3
+
+# Nota: MiniZinc debe instalarse por separado desde:
+# https://www.minizinc.org/software.html
+# Y debe estar en el PATH del sistema operativo para que el proyecto funcione correctamente.
